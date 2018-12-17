@@ -1,0 +1,3 @@
+* Lmod modulefiles collection
+
+Reflects the setup on my laptop. Kept here for reference.
